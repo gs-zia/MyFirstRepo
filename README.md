@@ -3,4 +3,4 @@ This is my First Git Repo
 <br>
 This is my first change.
 <br>
-Author: Self
+Author: Mohammed Zia (Self)
